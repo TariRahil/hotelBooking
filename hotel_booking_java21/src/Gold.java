@@ -1,0 +1,2 @@
+record Gold() implements Membership{
+}

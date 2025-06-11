@@ -1,0 +1,2 @@
+record Standard() implements Room {
+}
