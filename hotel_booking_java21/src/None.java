@@ -1,0 +1,2 @@
+record None() implements Membership {
+}

@@ -1,0 +1,2 @@
+record Suite() implements Room {
+}

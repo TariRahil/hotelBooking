@@ -1,0 +1,2 @@
+record Deluxe() implements Room {
+}
